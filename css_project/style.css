@@ -44,10 +44,11 @@ nav{
     align-items: center;
     margin: 0px 100px 0px 0px;
     color:  #1282a2;
+   
     
 }
 .name>a{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #1282a2;
 }
 .tools{
